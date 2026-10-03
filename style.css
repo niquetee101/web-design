@@ -1,0 +1,59 @@
+body {
+    font-family: Lato, sans-serif;
+    background: url(plan-page.jpg);
+    font-size: 16px;
+    width: 1180px;
+    margin: 0 auto;
+}
+
+section {
+    text-align: center;
+  
+}
+
+article {
+    background: #262626;
+    display: inline-block;
+    margin: 80px 0 20px;
+    border: 5px solid #424242;
+    color: #a1a1a1;
+    vertical-align: top;
+    box-sizing: border-box;
+    
+}
+article h1 {
+    font-size: 1.5em;
+    color: #FFF;
+
+
+}
+
+p.price {
+    font-size: 3em;
+    font-weight: bold;
+    color: #27dcc4;
+
+}
+
+ul {
+    padding: 0;
+  
+}
+button {
+    background: #27dcc4;
+    color: #FFF;
+    padding: 10px 20px;
+    margin: 10px 0;
+    font-size: 0.9em;
+    cursor: pointer;
+    border: none;
+}
+
+button :hover {
+    background: #ACACAC;
+
+}
+li {
+    list-style: none;
+    padding: 5px 0;
+}
